@@ -1,3 +1,4 @@
+Mod is built for and ran on Minceraft version 1.20.1
 Adds a particle marker to spawners that are nearby so you can find them easily! Wow! ∩｡• ᵕ •｡∩ ♡
 
 My first ever Minceraft Mod ᕦ(⩾﹏⩽)ᕥ
