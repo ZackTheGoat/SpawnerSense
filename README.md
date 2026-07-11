@@ -12,4 +12,4 @@ Supplementary images:
 
 
 Me @ making this mod:
-https://www.youtube.com/watch?v=8YGXnsC33-k
+<iframe width="1344" height="756" src="https://www.youtube.com/embed/8YGXnsC33-k" title="THREE DAYS!!" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
