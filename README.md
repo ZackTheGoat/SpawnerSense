@@ -3,6 +3,8 @@ Adds a particle marker to spawners that are nearby so you can find them easily! 
 
 My first ever Minceraft Mod ᕦ(⩾﹏⩽)ᕥ
 
+Can also be downloaded from: [CurseForge](https://www.curseforge.com/minecraft/mc-mods/spawnersense), Modrinth(soon)
+
 Supplementary images:
 <img width="5184" height="3084" alt="2026-07-10_19 34 52" src="https://github.com/user-attachments/assets/62005ff4-2d8c-479a-88e5-d83cc9543f40" />
 <img width="5184" height="3084" alt="2026-07-10_19 35 01" src="https://github.com/user-attachments/assets/f5eacc83-15cb-4ef5-9132-1f0f5bbe8db5" />
